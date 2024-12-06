@@ -1,0 +1,15 @@
+Outlook,Temperature,Humidity,Windy,Play_Golf
+Rainy,Hot,High,Cancel,No
+Rainy,Hot,High,Agree,No
+Overcast,Hot,High,Cancel,Yes
+Sunny,Mild,High,Cancel,Yes
+Sunny,Cool,Normal,Cancel,Yes
+Sunny,Cool,Normal,Agree,No
+Overcast,Cool,Normal,Agree,Yes
+Rainy,Mild,High,Cancel,No
+Rainy,Cool,Normal,Cancel,Yes
+Sunny,Mild,Normal,Cancel,Yes
+Rainy,Mild,Normal,Agree,Yes
+Overcast,Mild,High,Agree,Yes
+Overcast,Hot,Normal,Cancel,Yes
+Sunny,Mild,High,Agree,No
